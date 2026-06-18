@@ -1,0 +1,8 @@
+# Environment variables (secret credentials)
+.env
+
+# Python cache folder
+__pycache__/
+
+# Python bytecode files
+*.pyc
